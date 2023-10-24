@@ -1,0 +1,13 @@
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projeto_Web-Lh_Pets_Alunos/bin/Release/net7.0/publish/Projeto_Web-Lh_Pets_Alunos
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projeto_Web-Lh_Pets_Alunos/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projeto_Web-Lh_Pets_Alunos/bin/Release/net7.0/publish/appsettings.json
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projeto_Web-Lh_Pets_Alunos/bin/Release/net7.0/publish/Projeto_Web-Lh_Pets_Alunos.dll
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projeto_Web-Lh_Pets_Alunos/bin/Release/net7.0/publish/Projeto_Web-Lh_Pets_Alunos.deps.json
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projeto_Web-Lh_Pets_Alunos/bin/Release/net7.0/publish/Projeto_Web-Lh_Pets_Alunos.runtimeconfig.json
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projeto_Web-Lh_Pets_Alunos/bin/Release/net7.0/publish/Projeto_Web-Lh_Pets_Alunos.pdb
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projeto_Web-Lh_Pets_Alunos/bin/Release/net7.0/publish/System.Data.SqlClient.dll
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projeto_Web-Lh_Pets_Alunos/bin/Release/net7.0/publish/runtimes/win-arm64/native/sni.dll
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projeto_Web-Lh_Pets_Alunos/bin/Release/net7.0/publish/runtimes/win-x64/native/sni.dll
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projeto_Web-Lh_Pets_Alunos/bin/Release/net7.0/publish/runtimes/win-x86/native/sni.dll
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projeto_Web-Lh_Pets_Alunos/bin/Release/net7.0/publish/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projeto_Web-Lh_Pets_Alunos/bin/Release/net7.0/publish/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
